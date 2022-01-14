@@ -372,8 +372,8 @@ Navigation
 ------------------------------------------------------------------------------------------------- */
 .nav-toggle {
     position: fixed;
-    top: 55px;
-    right: 80px;
+    top: 40px;
+    right: 25px;
     z-index: 999999;
     padding: 10px 35px 16px 0px;
     cursor: pointer;
